@@ -1,3 +1,5 @@
+
+import 'bootswatch/dist/slate/bootstrap.min.css'; // Added this :boom:
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
